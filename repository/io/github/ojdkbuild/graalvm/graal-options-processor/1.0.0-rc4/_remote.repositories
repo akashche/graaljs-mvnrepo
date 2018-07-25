@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jul 24 20:41:45 BST 2018
+graal-options-processor-1.0.0-rc4.pom>=
+graal-options-processor-1.0.0-rc4-sources.jar>=
+graal-options-processor-1.0.0-rc4.jar>=

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jul 24 20:41:56 BST 2018
+graal-processor-common-1.0.0-rc4.jar>=
+graal-processor-common-1.0.0-rc4.pom>=
+graal-processor-common-1.0.0-rc4-sources.jar>=

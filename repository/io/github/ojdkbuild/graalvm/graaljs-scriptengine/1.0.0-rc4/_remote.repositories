@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jul 24 20:45:03 BST 2018
+graaljs-scriptengine-1.0.0-rc4.jar>=
+graaljs-scriptengine-1.0.0-rc4-sources.jar>=
+graaljs-scriptengine-1.0.0-rc4.pom>=

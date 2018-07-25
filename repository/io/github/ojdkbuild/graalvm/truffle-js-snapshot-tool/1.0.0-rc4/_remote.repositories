@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jul 24 20:45:23 BST 2018
+truffle-js-snapshot-tool-1.0.0-rc4.jar>=
+truffle-js-snapshot-tool-1.0.0-rc4-sources.jar>=
+truffle-js-snapshot-tool-1.0.0-rc4.pom>=

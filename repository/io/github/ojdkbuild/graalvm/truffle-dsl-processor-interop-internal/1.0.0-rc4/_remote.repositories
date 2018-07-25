@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jul 24 20:44:06 BST 2018
+truffle-dsl-processor-interop-internal-1.0.0-rc4.jar>=
+truffle-dsl-processor-interop-internal-1.0.0-rc4.pom>=
+truffle-dsl-processor-interop-internal-1.0.0-rc4-sources.jar>=

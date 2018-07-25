@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jul 24 20:42:13 BST 2018
+graal-serviceprovider-processor-1.0.0-rc4.pom>=
+graal-serviceprovider-processor-1.0.0-rc4.jar>=
+graal-serviceprovider-processor-1.0.0-rc4-sources.jar>=

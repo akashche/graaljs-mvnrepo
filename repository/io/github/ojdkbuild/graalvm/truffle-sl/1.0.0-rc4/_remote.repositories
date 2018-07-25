@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jul 24 20:44:34 BST 2018
+truffle-sl-1.0.0-rc4.jar>=
+truffle-sl-1.0.0-rc4-sources.jar>=
+truffle-sl-1.0.0-rc4.pom>=
